@@ -1,0 +1,44 @@
+.trips {
+    text-align: center;
+}
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.li {
+    list-style-type: none;
+    padding: 10px;
+    background-color: rgb(109, 128, 121);
+    margin: 10px auto;
+    width: 350px;
+    border-radius: 8px;
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.5);
+    color: #fff  ;
+}
+
+.li h3 {
+    display: inline-block;
+    padding-bottom: 12px;
+}
+
+.li h3 span {
+    color: rgb(31, 30, 30);
+    font-weight: bold;
+    font-size: 19px;
+}
+.button {
+    display: flex;
+    width: 80%;
+    margin: 20px auto ;
+}
+.button button {
+    background: rgb(36, 35, 35);
+    color: white;
+    width: 30%;
+    padding: 10px;
+    flex-grow: 1;
+}

@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Trips from "./Component/Trips/trips";
 import "./App.css";
 
 function App() {
@@ -36,6 +37,7 @@ function App() {
   };
 
   return (
+    <>
     <div className="App">
       <h3 className="display">{display}</h3>
 
@@ -67,6 +69,10 @@ function App() {
         </section>
       </section>
     </div>
+      <section className="trips">
+        <Trips />
+      </section>
+    </>
   );
 }
 

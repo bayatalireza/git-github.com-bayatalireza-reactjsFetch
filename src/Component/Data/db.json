@@ -1,0 +1,99 @@
+
+{
+    "trips1":[
+        {
+            "title": "5 days stay to Tehran",
+            "price": "869T",
+            "loc": "iran",
+            "id": "1"
+        },
+        {
+            "title": "3 days stay to Isfahan",
+            "price": "450T",
+            "loc": "iran",
+            "id": "2"
+        },
+        {
+            "title": "2 days stay to Ardabil",
+            "price": "200T",
+            "loc": "iran",
+            "id": "3"
+        },
+        {
+            "title": "4 days stay to Shiraz",
+            "price": "900T",
+            "loc": "iran",
+            "id": "4"
+        },
+        {
+            "title": "11 days stay to Ankara",
+            "price": "11000T",
+            "loc": "turkey",
+            "id": "5"
+        }
+    ],
+    "trips2":[
+        {
+            "title": "8 days stay to Tehran",
+            "price": "1100T",
+            "loc": "iran",
+            "id": "1"
+        },
+        {
+            "title": "10 days stay to Isfahan",
+            "price": "1200T",
+            "loc": "iran",
+            "id": "2"
+        },
+        {
+            "title": "1 days stay to Ardabil",
+            "price": "200T",
+            "loc": "iran",
+            "id": "3"
+        },
+        {
+            "title": "3 days stay to Elmier",
+            "price": "1900T",
+            "loc": "turkey",
+            "id": "4"
+        },
+        {
+            "title": "10 days stay to Istanbul",
+            "price": "1000T",
+            "loc": "turkey",
+            "id": "5"
+        }
+    ],
+    "trips3":[
+        {
+            "title": "3 days stay to Isfahan",
+            "price": "450T",
+            "loc": "iran",
+            "id": "1"
+        },
+        {
+            "title": "2 days stay to Ardabil",
+            "price": "200T",
+            "loc": "iran",
+            "id": "2"
+        },
+        {
+            "title": "1 days stay to Ardabil",
+            "price": "200T",
+            "loc": "iran",
+            "id": "3"
+        },
+        {
+            "title": "3 days stay to Elmier",
+            "price": "1900T",
+            "loc": "turkey",
+            "id": "4"
+        },
+        {
+            "title": "10 days stay to Istanbul",
+            "price": "1000T",
+            "loc": "turkey",
+            "id": "5"
+        }
+    ]
+}
